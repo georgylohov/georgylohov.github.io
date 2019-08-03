@@ -1,2 +1,2 @@
-# georgylohov.github.io
+# Георгий Лохов
 Мой первый сайт
